@@ -20,7 +20,7 @@ layout:
 
 # Welcome
 
-Test
+Test, part 2
 
 ### Jump right in
 
