@@ -57,38 +57,3 @@ Click the "Disable Activities Channel" button to stop receiving activity posts.
 1. Use `/settings server` (requires Manage Server permission)
 2. Select a channel from the dropdown or click disable
 3. Changes apply to the entire server
-
-## Default Settings
-
-New users start with these defaults:
-- **DM Notifications**: Enabled
-- **Skip Confirmations**: Disabled
-
-New servers start with:
-- **Activities Channel**: None (disabled)
-
-## Privacy & Data
-
-Your settings are stored to provide bot functionality:
-- User settings are personal to you
-- Server settings apply to all server members
-- Settings sync across all servers where you use Tama
-
-## Getting Help
-
-If you need assistance with settings:
-- Use `/help` for general bot help
-- Ask in your server's support channel
-- Check that Tama has proper permissions for channel features
-
-## Tips
-
-### For Users
-- Enable DM notifications if you want reminders about your pet
-- Use skip confirmations if you shop frequently and trust yourself
-- You can toggle settings as often as you like
-
-### For Server Admins
-- Set an activities channel to engage your community
-- Make sure Tama has "Send Messages" permission in your chosen channel
-- You can change or disable the channel anytime
