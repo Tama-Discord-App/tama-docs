@@ -6,7 +6,7 @@ Customize your Tama experience and manage server settings.
 
 Use `/settings user` to manage your personal preferences.
 
-![User Settings](./assets/tama_settings_user.png)
+![User Settings](../assets/tama_settings_user.png)
 
 ### Available User Settings
 
@@ -30,7 +30,7 @@ Enable this only if you're comfortable with instant purchases. It can save time 
 
 Server administrators can configure Tama for their server using `/settings server`.
 
-![Server Settings](./assets/tama_settings_server.png)
+![Server Settings](../assets/tama_settings_server.png)
 
 {% hint style="warning" %}
 This command requires the "Manage Server" permission!
