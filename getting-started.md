@@ -67,7 +67,7 @@ Daily games are more rewarding and feature unique modifiers!
 
 ## Getting Help
 
-If you get stuck, have questions or just wanna chat, join our support server: https://discord.gg/bgCPw8rHva
+If you get stuck, have questions or just wanna chat, join our [support server](https://discord.gg/bgCPw8rHva).
 
 {% hint style="success" %}
 Now you're ready to start your Tama journey! Check out the other guides to learn more about specific features!
