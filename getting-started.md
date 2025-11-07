@@ -1,6 +1,6 @@
 ---
 icon: hand-wave
-cover: ./tama_banner.png
+cover: ./assets/tama_banner.png
 coverY: 0
 layout:
   cover:
