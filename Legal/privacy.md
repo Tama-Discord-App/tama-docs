@@ -1,7 +1,5 @@
 # Privacy Policy
 
-**Last Updated: November 7, 2025**
-
 This Privacy Policy explains how Tama ("we", "us", or "our") collects, uses, and protects your information when you use our Discord bot.
 
 ## 1. Information We Collect
