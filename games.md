@@ -102,29 +102,6 @@ All games reward you with bells based on performance:
 - **Perfect plays** may give bonus rewards
 - **Completing games** contributes to achievements
 
-## Cooldowns
-
-Some games may have cooldowns to prevent spam:
-- Wait between plays if prompted
-- Cooldowns ensure fair play
-- Use the time to care for your pet!
-
-## Game Strategy
-
-### For Earning Bells
-- Play the games you're best at
-- Consistent wins are better than gambling on hard games
-- Daily play adds up over time
-
-### For Fun
-- Try all games to find your favorites
-- Challenge yourself with harder difficulties
-- Compete with friends in your server
-
-{% hint style="success" %}
-Mix gameplay with pet care - use earnings to buy items for your pet!
-{% endhint %}
-
 ## Achievements
 
 Many games have related achievements:
